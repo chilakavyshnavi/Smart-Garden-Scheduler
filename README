@@ -1,0 +1,15 @@
+# Smart Garden Scheduler
+
+## 🌱 Project Overview
+The **Smart Garden Scheduler** is a web-based application designed to help users efficiently manage and automate their garden watering schedules.  
+It provides a **clean and user-friendly UI** for interaction and uses **weather forecasting** to optimize watering times, conserving water and improving plant health.  
+
+The project integrates:
+- **Frontend:** HTML, CSS, JavaScript for a responsive and intuitive interface.
+- **Backend:** Java Spring Boot for handling business logic and scheduling tasks.
+- **Weather Forecasting:** External API integration to fetch real-time and forecast weather data.
+
+By analyzing upcoming weather conditions, the scheduler can skip watering on rainy days or adjust schedules during hot, dry periods.
+
+
+
